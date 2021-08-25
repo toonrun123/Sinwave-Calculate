@@ -4,7 +4,7 @@
 ### x = wave value
 ### a = height wave
 ### h = wave position
-### b = wave noice
+### b = wave noise
 ### k = wave Position Y
 
 ## Example
